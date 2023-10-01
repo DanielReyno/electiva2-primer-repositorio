@@ -58,4 +58,6 @@ g_California = California.plot(x="year", y="AveragePrice", kind="scatter", color
 
 plt.show()
 
+print("hola gitS")
+
 
